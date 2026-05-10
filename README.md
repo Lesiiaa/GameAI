@@ -38,12 +38,16 @@ The main goal of the project was to implement and compare two different AI appro
 ## Gameplay Preview :desktop_computer:
 
 ### Maze Exploration 
+<img src="Documents/sc_1.png"  width="500" />
 
 ### Enemy Guard
+<img src="Documents/sc_4.png"  width="500" />
 
 ### Behaviour Tree Enemy
+<img src="Documents/sc_3.png"  width="500" />
 
 ### Melee Combat
+<img src="Documents/sc_5.png"  width="500" />
 
 ---
 
