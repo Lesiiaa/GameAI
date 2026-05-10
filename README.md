@@ -43,7 +43,7 @@ The main goal of the project was to implement and compare two different AI appro
 
 ### Behaviour Tree Enemy
 
-### Melee Comabat
+### Melee Combat
 
 ---
 
